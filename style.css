@@ -1,5 +1,7 @@
 body{
     background: red;
+    width: 980px;
+    margin: auto;
 }
 body div{
     font-size: 32px;
